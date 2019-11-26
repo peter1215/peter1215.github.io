@@ -1,0 +1,64 @@
+.t1{
+			background-color: gray;
+			color: white;
+			font-style: italic;
+			font-weight: bold;
+            
+		}
+		.t2{
+			font-size: 24px;
+			font-style: italic;
+			font-weight: bold;
+            background-color: gray;
+            
+		}
+		.t3{
+              position: relative;
+              left: 650px;
+		}
+		.t31{
+			position: relative;
+			right: 753px;
+		}
+        .a1{
+        	position: relative;
+        	left: 500px;
+        }
+        ul{
+        	text-align: center;
+        }
+        .c1{
+        	background-color: gray;
+        	font-size: 24px;
+			font-style: italic;
+			font-weight: bold;
+			color: white;
+        }
+        .c2{
+            background-color: gray;
+        	font-size: 24px;
+			font-style: italic;
+			font-weight: bold;
+			color: white;
+        }
+        .d1{
+        	text-align: center;
+        }
+        .d11{
+        	float: right;
+        }
+        .d12{
+        	float: left;
+        }
+        .d2{
+        	font-size: 24px;
+			font-style: italic;
+			font-weight: bold;
+			color: white;
+        }
+        .e1{
+             color: white;
+        }
+		body{
+			background-image: url(../image/n2.jpg);
+		}
